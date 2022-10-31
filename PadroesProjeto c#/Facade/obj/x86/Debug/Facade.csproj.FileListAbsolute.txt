@@ -1,0 +1,8 @@
+C:\Users\201900063508\Downloads\PadroesProjeto c#\PadroesProjeto c#\Facade\bin\Debug\Facade.exe.config
+C:\Users\201900063508\Downloads\PadroesProjeto c#\PadroesProjeto c#\Facade\bin\Debug\Facade.exe
+C:\Users\201900063508\Downloads\PadroesProjeto c#\PadroesProjeto c#\Facade\bin\Debug\Facade.pdb
+C:\Users\201900063508\Downloads\PadroesProjeto c#\PadroesProjeto c#\Facade\obj\x86\Debug\Facade.csproj.AssemblyReference.cache
+C:\Users\201900063508\Downloads\PadroesProjeto c#\PadroesProjeto c#\Facade\obj\x86\Debug\Facade.csproj.SuggestedBindingRedirects.cache
+C:\Users\201900063508\Downloads\PadroesProjeto c#\PadroesProjeto c#\Facade\obj\x86\Debug\Facade.csproj.CoreCompileInputs.cache
+C:\Users\201900063508\Downloads\PadroesProjeto c#\PadroesProjeto c#\Facade\obj\x86\Debug\Facade.exe
+C:\Users\201900063508\Downloads\PadroesProjeto c#\PadroesProjeto c#\Facade\obj\x86\Debug\Facade.pdb

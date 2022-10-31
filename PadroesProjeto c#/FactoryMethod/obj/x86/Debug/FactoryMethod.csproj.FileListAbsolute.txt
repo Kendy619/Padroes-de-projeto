@@ -1,0 +1,8 @@
+C:\Users\201900063508\Downloads\PadroesProjeto c#\PadroesProjeto c#\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\Users\201900063508\Downloads\PadroesProjeto c#\PadroesProjeto c#\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\Users\201900063508\Downloads\PadroesProjeto c#\PadroesProjeto c#\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\Users\201900063508\Downloads\PadroesProjeto c#\PadroesProjeto c#\FactoryMethod\obj\x86\Debug\FactoryMethod.csproj.AssemblyReference.cache
+C:\Users\201900063508\Downloads\PadroesProjeto c#\PadroesProjeto c#\FactoryMethod\obj\x86\Debug\FactoryMethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\201900063508\Downloads\PadroesProjeto c#\PadroesProjeto c#\FactoryMethod\obj\x86\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\201900063508\Downloads\PadroesProjeto c#\PadroesProjeto c#\FactoryMethod\obj\x86\Debug\FactoryMethod.exe
+C:\Users\201900063508\Downloads\PadroesProjeto c#\PadroesProjeto c#\FactoryMethod\obj\x86\Debug\FactoryMethod.pdb

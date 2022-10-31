@@ -1,0 +1,8 @@
+C:\Users\201900063508\Downloads\PadroesProjeto c#\PadroesProjeto c#\Decorator\bin\Debug\Decorator.exe.config
+C:\Users\201900063508\Downloads\PadroesProjeto c#\PadroesProjeto c#\Decorator\bin\Debug\Decorator.exe
+C:\Users\201900063508\Downloads\PadroesProjeto c#\PadroesProjeto c#\Decorator\bin\Debug\Decorator.pdb
+C:\Users\201900063508\Downloads\PadroesProjeto c#\PadroesProjeto c#\Decorator\obj\x86\Debug\Decorator.csproj.AssemblyReference.cache
+C:\Users\201900063508\Downloads\PadroesProjeto c#\PadroesProjeto c#\Decorator\obj\x86\Debug\Decorator.csproj.SuggestedBindingRedirects.cache
+C:\Users\201900063508\Downloads\PadroesProjeto c#\PadroesProjeto c#\Decorator\obj\x86\Debug\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\201900063508\Downloads\PadroesProjeto c#\PadroesProjeto c#\Decorator\obj\x86\Debug\Decorator.exe
+C:\Users\201900063508\Downloads\PadroesProjeto c#\PadroesProjeto c#\Decorator\obj\x86\Debug\Decorator.pdb
