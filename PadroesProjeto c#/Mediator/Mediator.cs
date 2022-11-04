@@ -22,7 +22,6 @@ namespace Mediator.Structural
 
             var c2 = new ConcreteColleague2(m);
 
-
             m.Colleague1 = c1;
 
             m.Colleague2 = c2;

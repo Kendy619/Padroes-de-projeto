@@ -46,6 +46,10 @@ namespace Strategy.RealWorld
 
             studentRecords.Sort();
 
+            studentRecords.SetSortStrategy(new BubleSort());
+
+            studentRecords.Sort();
+
 
             // Wait for user
 
@@ -73,6 +77,16 @@ namespace Strategy.RealWorld
             list.Sort(); // Default is Quicksort
 
             Console.WriteLine("QuickSorted list ");
+        }
+    }
+
+    internal class BubleSort : SortStrategy
+    {
+        public override void Sort(List<string> list)
+        {
+            list.Sort(); // Default is Bublesort
+
+            Console.WriteLine("BublesortSorted list ");
         }
     }
 

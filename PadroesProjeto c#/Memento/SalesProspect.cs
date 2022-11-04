@@ -65,6 +65,7 @@ namespace Memento.RealWorld
         private string _name;
 
         private string _phone;
+        private string _phoneCelular;
 
 
         // Gets or sets name
@@ -95,6 +96,19 @@ namespace Memento.RealWorld
                 Console.WriteLine("Phone: " + _phone);
             }
         }
+
+        public string PhoneCelular
+        {
+            get { return _phoneCelular; }
+
+            set
+            {
+                _phoneCelular = value;
+
+                Console.WriteLine("PhoneCelular: " + _phoneCelular);
+            }
+        }
+
 
 
         // Gets or sets budget

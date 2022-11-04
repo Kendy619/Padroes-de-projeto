@@ -18,6 +18,12 @@ namespace Observer.RealWorld
 
             var ibm = new IBM("IBM", 120.00);
 
+            var solar = new Solar("IBM", 180.00);
+
+            solar.Attach(new Investor("Kendy"));
+
+            solar.Attach(new Investor("KendyFerreira"));
+
             ibm.Attach(new Investor("Sorros"));
 
             ibm.Attach(new Investor("Berkshire"));
@@ -34,6 +40,10 @@ namespace Observer.RealWorld
             ibm.Price = 120.50;
 
             ibm.Price = 120.75;
+
+            solar.Price = 180.40;
+
+            solar.Price = 179.89;
 
 
             // Wait for user
@@ -123,6 +133,16 @@ namespace Observer.RealWorld
         // Constructor
 
         public IBM(string symbol, double price)
+            : base(symbol, price)
+        {
+        }
+    }
+
+    internal class Solar : Stock
+    {
+        // Constructor
+
+        public Solar(string symbol, double price)
             : base(symbol, price)
         {
         }
